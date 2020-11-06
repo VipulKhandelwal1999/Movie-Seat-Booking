@@ -11,4 +11,6 @@ Display movie choices and seats in a theater to select from in order to purchase
 - Number of seats and price will update
 - Save seats, movie and price to local storage so that UI is still populated on refresh
 
+## Website Demo
 
+<a href="https://movie-seat-booking-project.netlify.app/">Visit Website</a>
